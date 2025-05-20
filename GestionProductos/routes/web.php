@@ -14,7 +14,7 @@ Route :: get('/producto', [ProductosController::class, 'index'])->name('producto
 
 Route :: get('/producto/create', [ProductosController::class, 'create'])->name('producto.create');
 
-Route :: get('/producto/store', [ProductosController::class, 'store'])->name('producto.store');
+Route :: post('/producto/store', [ProductosController::class, 'store'])->name('producto.store');
 
 Route::get('/producto/{id}/edit', [ProductosController::class, 'edit'])->name('producto.edit');
 
