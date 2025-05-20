@@ -1,7 +1,7 @@
 # DESAFIO PRACTICO  #3
 Gestión de Productos con Laravel
 
-<h2>Daniel Ernesto Alvardo Roque</h2>
+<h2>Daniel Ernesto Alvarado Roque</h2>
 
 ---
 
